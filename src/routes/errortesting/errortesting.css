@@ -1,0 +1,16 @@
+.error-page{
+  display: flex;
+  flex-direction:column;
+  justify-items: center;
+  align-items: center;
+  margin-top: 3rem;
+  gap: 3rem;
+}
+.error-page a{
+  text-decoration: none;
+  color: hsl(27 96% 61%);
+  transition: color ease-in-out 0.3s;
+}
+.error-page a:hover{
+  color: white;
+}

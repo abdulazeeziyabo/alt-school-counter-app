@@ -1,0 +1,17 @@
+.notfound-wrapper{
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  gap: 4rem;
+  margin-top: 5rem;
+}
+.notfound-wrapper a{
+  text-decoration: none;
+  cursor: pointer;
+  color: hsl(20.5 90.2% 48.2%);
+  transition: all ease-in 0.3s;
+}
+.notfound-wrapper a:hover{
+color: white;
+}

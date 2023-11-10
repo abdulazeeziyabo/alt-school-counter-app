@@ -1,0 +1,13 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+  gap: 8rem;
+}
+.home-link{
+display: flex;
+flex-direction: column;
+gap: 8rem;
+}
